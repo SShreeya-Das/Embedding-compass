@@ -11,7 +11,7 @@
 
 ## 🔬 **Key Finding**
 
-The relationship between **justice, mercy, and punishment** differs by **21%** across languages:
+The relationship between **justice, mercy, and punishment** differs by **21%** across languages: This difference is statistically significant (F=48.0, p<0.0001).
 
 | Language | Ratio* | Interpretation |
 |----------|--------|----------------|
@@ -47,7 +47,6 @@ The relationship between **justice, mercy, and punishment** differs by **21%** a
 ## 🚀 **Quick Start**
 
 ### **Option 1: Run in Google Colab** (Recommended)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SShreeya-Das/Embedding-compass/blob/main/embedding-compass.ipynb)
 
 1. Click the badge above
@@ -58,7 +57,7 @@ The relationship between **justice, mercy, and punishment** differs by **21%** a
 
 ```bash
 # Clone repository
-git clone  https://github.com/SShreeya-Das/Embedding-compass.git
+git clone https://github.com/SShreeya-Das/Embedding-compass.git
 cd embedding-compass
 
 # Install dependencies
