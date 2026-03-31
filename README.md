@@ -28,7 +28,7 @@ The relationship between **justice, mercy, and punishment** differs by **21%** a
 - **Effect Size:** 21% variation across languages
 - **Conclusion:** Language is a statistically significant predictor of concept geometry
 
----### Methodology
+**Methodology**
 
 **Model**: `paraphrase-multilingual-mpnet-base-v2` (768-dimensional embeddings)
 
