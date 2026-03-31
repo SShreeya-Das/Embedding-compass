@@ -53,8 +53,26 @@ The relationship between **justice, mercy, and punishment** differs by **21%** a
 - Multilingual models are **not culturally neutral**
 - Training data cultural context is **encoded in embedding geometry**
 - Implications for **AI fairness, cross-cultural NLP, moral reasoning systems**
+## 📊 Visualizations
 
----
+### Key Charts
+
+#### Justice-Mercy Ratio Comparison
+![Ratio Comparison](https://raw.githubusercontent.com/SShreeya-Das/Embedding-compass/main/results/screenshots/ratio_comparison.png)
+*Shows the 21% variation in concept relationships across languages*
+
+#### Hindi Concept Heatmap
+![Hindi Heatmap](https://raw.githubusercontent.com/SShreeya-Das/Embedding-compass/main/results/screenshots/heatmap_hindi.png)
+*Visualizes how moral concepts cluster in Hindi embeddings*
+
+#### Japanese Concept Heatmap
+![Japanese Heatmap](https://raw.githubusercontent.com/SShreeya-Das/Embedding-compass/main/results/screenshots/heatmap_japanese.png)
+*Visualizes how moral concepts cluster in Japanese embeddings* 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SShreeya-Das/Embedding-compass/blob/main/embedding-compass.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 ## 🚀 **Quick Start**
 
