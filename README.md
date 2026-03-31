@@ -28,7 +28,19 @@ The relationship between **justice, mercy, and punishment** differs by **21%** a
 - **Effect Size:** 21% variation across languages
 - **Conclusion:** Language is a statistically significant predictor of concept geometry
 
----
+---### Methodology
+
+**Model**: `paraphrase-multilingual-mpnet-base-v2` (768-dimensional embeddings)
+
+**Languages**: English, Hindi, Japanese, Arabic, Chinese
+
+**Concepts**: 10 abstract moral terms (justice, mercy, duty, honor, forgiveness, punishment, law, freedom, loyalty, sacrifice)
+
+**Metric**: Cosine distance = 1 - cosine_similarity
+
+**Statistical Test**: One-way ANOVA with bootstrap resampling (n=20 per language)
+
+**Visualization**: Interactive Plotly HTML charts
 
 ## 📊 **What This Means**
 
