@@ -97,12 +97,3 @@ pip install -r requirements.txt
 python analysis.py  # (if you created this file)
 # OR open the notebook in Jupyter
 
-📚 **Related Work**
-Ahia et al. (2023). "All Languages Are Not Created (Tokenized) Equal." ACL Findings
-Hofstede, G. (2001). Culture's Consequences. Sage Publications.
-Sapir, E. (1929). "The Status of Linguistics as a Science." Language
-🛠️ **Technical Details**
-Model: paraphrase-multilingual-mpnet-base-v2 (Sentence Transformers)
-Metric: Cosine distance (1 - cosine similarity)
-Languages: English, Hindi, Japanese, Arabic, Chinese
-Concepts: 10 abstract moral terms (justice, mercy, duty, honor, forgiveness, punishment, law, freedom, loyalty, sacrifice)
